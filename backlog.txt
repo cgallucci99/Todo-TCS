@@ -1,0 +1,7 @@
+User Stories:
+A user should be able to add a todo.
+A user should be able to check off tasks on the list.
+A user should be able to clear the completed tasks from the list.
+A user should be able to view their progress towards completing the todo list.
+A user should be able to set a date to complete the task.
+A user should be able to see which tasks are past due.
